@@ -1,7 +1,25 @@
 # Country-club-management-system
 
-## How to use ? 
-clone 
+### **Step by Step Guide on how to use our Country Club Management System**
+**Pre-Requisites**
+Make sure you have Git installed on your computer - [https://git-scm.com/downloads](https://git-scm.com/downloads)
+Make sure you have XAMPP server installed -[https://www.apachefriends.org/index.html](https://www.apachefriends.org/index.html)
+**How to copy your repository**
+1. Create a folder on your desktop called CodingChallenge2021.
+3. Open up Command Line on Windows or Terminal on Mac OS X
+4.  In Command Line/Terminal Navigate to the CodingChallenge2021 folder on your Desktop by typing in –
+ `$ cd Desktop/Count club magaement system`
+5. Once you’re in the folder clone your GitHub repository by executing the following command –
+ `$ git clone <insert link of your GitHub Repository here, without the brackets>`
+6. You should now have the repository checked out locally.
+
+**How to copy the backend**
+
+1. For the back-end i used pHpMyAdmin which stores the login details for both the user and admin. There are a total of 18 tables that store all the neceassay details 
+2. Upload the .sql present in `SQL DATABASE` on the XAMPP server.
+
+
+##### You are now good to go, launch `loginhtmlcopy.php` webpage from htdocs and enjoy our services 
 
 
 ## INTRODUCTION
