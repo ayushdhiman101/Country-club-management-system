@@ -1,4 +1,4 @@
-# Country-club-management-system
+# country-club-management-system
 
 ####Please find the PDF report attached 
 
